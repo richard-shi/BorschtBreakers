@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quiz>
+    <QuizCard>
+        <QuizCardID>L2Q1</QuizCardID>
+        <QuizCardFilename>L2Q1.htm</QuizCardFilename>
+        <Answer>семь</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q2</QuizCardID>
+        <QuizCardFilename>L2Q2.htm</QuizCardFilename>
+        <Answer>2475</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q3</QuizCardID>
+        <QuizCardFilename>L2Q3.htm</QuizCardFilename>
+        <Answer>триста восемьдесят девять тысяч сто семьдесят</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q4</QuizCardID>
+        <QuizCardFilename>L2Q4.htm</QuizCardFilename>
+        <Answer>пятьсот сороковая</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q5</QuizCardID>
+        <QuizCardFilename>L2Q5.htm</QuizCardFilename>
+        <Answer>тристо</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q6</QuizCardID>
+        <QuizCardFilename>L2Q6.htm</QuizCardFilename>
+        <Answer>B</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q7</QuizCardID>
+        <QuizCardFilename>L2Q7.htm</QuizCardFilename>
+        <Answer>A</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q8</QuizCardID>
+        <QuizCardFilename>L2Q8.htm</QuizCardFilename>
+        <Answer>D</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q9</QuizCardID>
+        <QuizCardFilename>L2Q9.htm</QuizCardFilename>
+        <Answer>B</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L2Q10</QuizCardID>
+        <QuizCardFilename>L2Q10.htm</QuizCardFilename>
+        <Answer>B</Answer>
+    </QuizCard>
+</Quiz>
+

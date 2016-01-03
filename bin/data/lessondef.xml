@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lessons>
+    <Lesson>
+        <LessonID>"Lesson 1"</LessonID>
+        <QuizFileName>quiz1.xml</QuizFileName>
+        <CardFilenames>
+            <CardFileName>Lesson1Title.htm</CardFileName>
+            <CardFileName>Lesson1Screen1.htm</CardFileName>
+            <CardFileName>Lesson1Screen2.htm</CardFileName>
+            <CardFileName>Lesson1Screen3.htm</CardFileName>
+            <CardFileName>Lesson1Screen4.htm</CardFileName>
+            <CardFileName>LessonEnd.htm</CardFileName>
+        </CardFilenames>
+    </Lesson>
+    <Lesson>
+        <LessonID>"Lesson 2"</LessonID>
+        <QuizFileName>quiz2.xml</QuizFileName>
+        <CardFilenames>
+            <CardFileName>Lesson2Title.htm</CardFileName>
+            <CardFileName>Lesson2Screen1.htm</CardFileName>
+            <CardFileName>Lesson2Screen2.htm</CardFileName>
+            <CardFileName>Lesson2Screen3.htm</CardFileName>
+            <CardFileName>Lesson2Screen4.htm</CardFileName>
+            <CardFileName>LessonEnd.htm</CardFileName>
+        </CardFilenames>
+    </Lesson>
+    <Lesson>
+        <LessonID>"Lesson 3"</LessonID>
+        <QuizFileName>quiz3.xml</QuizFileName>
+        <CardFilenames>
+            <CardFileName>Lesson3Title.htm</CardFileName>
+            <CardFileName>Lesson3Screen1.htm</CardFileName>
+            <CardFileName>Lesson3Screen2.htm</CardFileName>
+            <CardFileName>LessonEnd.htm</CardFileName>
+        </CardFilenames>
+    </Lesson>
+</Lessons>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quiz>
+    <QuizCard>
+        <QuizCardID>L1Q1</QuizCardID>
+        <QuizCardFilename>L1Q1.htm</QuizCardFilename>
+        <Answer>г</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q2</QuizCardID>
+        <QuizCardFilename>L1Q2.htm</QuizCardFilename>
+        <Answer>yu</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q3</QuizCardID>
+        <QuizCardFilename>L1Q3.htm</QuizCardFilename>
+        <Answer>ш</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q4</QuizCardID>
+        <QuizCardFilename>L1Q4.htm</QuizCardFilename>
+        <Answer>s</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q5</QuizCardID>
+        <QuizCardFilename>L1Q5.htm</QuizCardFilename>
+        <Answer>ё</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q6</QuizCardID>
+        <QuizCardFilename>L1Q6.htm</QuizCardFilename>
+        <Answer>n</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q7</QuizCardID>
+        <QuizCardFilename>L1Q7.htm</QuizCardFilename>
+        <Answer>y</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q8</QuizCardID>
+        <QuizCardFilename>L1Q8.htm</QuizCardFilename>
+        <Answer>y</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L1Q9</QuizCardID>
+        <QuizCardFilename>L1Q9.htm</QuizCardFilename>
+        <Answer>C</Answer>
+    </QuizCard>
+        <QuizCard>
+        <QuizCardID>L1Q10</QuizCardID>
+        <QuizCardFilename>L1Q10.htm</QuizCardFilename>
+        <Answer>B</Answer>
+    </QuizCard>
+</Quiz>
+

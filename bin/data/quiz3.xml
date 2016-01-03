@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quiz>
+    <QuizCard>
+        <QuizCardID>L3Q1</QuizCardID>
+        <QuizCardFilename>L3Q1.htm</QuizCardFilename>
+        <Answer>death</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q2</QuizCardID>
+        <QuizCardFilename>L3Q2.htm</QuizCardFilename>
+        <Answer>яйцо</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q3</QuizCardID>
+        <QuizCardFilename>L3Q3.htm</QuizCardFilename>
+        <Answer>instrumental</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q4</QuizCardID>
+        <QuizCardFilename>L3Q4.htm</QuizCardFilename>
+        <Answer>moon</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q5</QuizCardID>
+        <QuizCardFilename>L3Q5.htm</QuizCardFilename>
+        <Answer>кровь</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q6</QuizCardID>
+        <QuizCardFilename>L3Q6.htm</QuizCardFilename>
+        <Answer>D</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q7</QuizCardID>
+        <QuizCardFilename>L3Q7.htm</QuizCardFilename>
+        <Answer>A</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q8</QuizCardID>
+        <QuizCardFilename>L3Q8.htm</QuizCardFilename>
+        <Answer>C</Answer>
+    </QuizCard>
+    <QuizCard>
+        <QuizCardID>L3Q9</QuizCardID>
+        <QuizCardFilename>L3Q9.htm</QuizCardFilename>
+        <Answer>C</Answer>
+    </QuizCard>
+        <QuizCard>
+        <QuizCardID>L3Q10</QuizCardID>
+        <QuizCardFilename>L3Q10.htm</QuizCardFilename>
+        <Answer>A</Answer>
+    </QuizCard>
+</Quiz>
+
