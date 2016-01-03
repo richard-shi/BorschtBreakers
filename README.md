@@ -20,7 +20,7 @@ The game is designed this way in order to be extendable, with lessons and quizze
 ### Usage
  Information is given in the form of lessons (one lesson per topic), with information in a lesson divided between multiple "screens" of information for easier reading.
  After having read a lesson, the user must answer 10 questions based on the material that they learned – 5 multiple choice questions, and 5 free response questions.
- The user must have at least 5 questions right to advance. Each correct answer advances the “Borscht Meter”, which is basically a progress bar.
+ The user must have at least 5 questions right to advance.
  At the end of a game, the points must be at least 75% in order for the user to be declared a “Legend of Russia”.
  
 # Credits
